@@ -1,0 +1,31 @@
+_repo: My-Discovery-of-England_3532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: ''
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'England -- Humor'
+- GITenberg
+tableOfContents: The balance of trade in impressions -- I am interviewed by the press
+  -- Impressions of London -- A clear view of the government and politics of England
+  -- Oxford as I see it -- The British and the American press -- Business in England
+  -- Is prohibition coming to England? -- "We have with us to-night" -- Have the English
+  any sense of humour?
+title: My Discovery of England
+url: http://www.gutenberg.org/ebooks/3532
